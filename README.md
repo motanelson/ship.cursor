@@ -1,1 +1,1 @@
-a simply encripter
+multi cursor
